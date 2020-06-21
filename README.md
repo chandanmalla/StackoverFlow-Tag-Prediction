@@ -13,6 +13,7 @@ EDA --> PreProcessing(Stemming,Tokenization,Stopword removal,html tags removal e
 ![GitHub Logo](/images/data-set.PNG)
 
 #### Data set after pre-processing
+question = body + title, code was removed from body and new block for code exist was created.
 ![GitHub Logo](/images/data-set2.PNG)
 
 
